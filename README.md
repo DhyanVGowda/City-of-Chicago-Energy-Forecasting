@@ -18,7 +18,7 @@ Energy forecasting is crucial for efficient energy management and urban planning
 
 ## Dataset
 
-The dataset for this project is sourced from [City of Chicago Open Data Portal](https://data.cityofchicago.org/) and contains historical energy usage data, weather conditions, and other relevant metrics. Ensure that the datasets are downloaded and stored in the following directory:
+The dataset for this project is sourced from [City of Chicago Open Data Portal](https://data.cityofchicago.org/) and contains historical energy usage data, weather conditions, and other relevant metrics. Ensure that the datasets are downloaded and stored.
 
 ### Features:
 - **Energy Usage**: Hourly energy consumption metrics.
@@ -26,7 +26,7 @@ The dataset for this project is sourced from [City of Chicago Open Data Portal](
 - **Temporal Features**: Year, month, day, and hour.
 
 ### Add Dataset
-Download the datasets and place them in the `data/` directory as specified above before running the analysis.
+Download the datasets and then replace the paths in the ipynb file with your paths to wherever you've downloaded the datasets to on your computer.
 
 ## Approach
 
